@@ -1,0 +1,30 @@
+facebook|https://www.facebook.com/
+youtube|https://www.youtube.com/
+bản đồ|https://www.google.com/maps/
+trang tín chỉ|http://dktc.vnuf.edu.vn/
+thời khóa biểu|http://dktc.vnuf.edu.vn/CMCSoft.IU.Web.Info/Reports/Form/StudentTimeTable.aspx/
+google dịch|https://translate.google.com/
+google|https://www.google.com/
+gmail|https://mail.google.com/
+drive|https://drive.google.com/
+google ảnh|https://photos.google.com/
+google calendar|https://calendar.google.com/
+zing mp3|https://zingmp3.vn/
+nhạc của tui|https://www.nhaccuatui.com/
+phim mới|http://www.phimmoizz.net/
+tin công nghệ|https://news.zing.vn/cong-nghe.html
+tin thể thao|https://zingnews.vn/the-thao.html
+tin kinh doanh|https://zingnews.vn/kinh-doanh.html
+tin thế giới|https://zingnews.vn/the-gioi.html
+tin giải trí|https://zingnews.vn/giai-tri.html
+tin thời sự|https://zingnews.vn/thoi-su.html
+tin game|https://zingnews.vn/game.html
+tin du lịch|https://zingnews.vn/du-lich.html
+tin âm nhạc|https://zingnews.vn/am-nhac.html
+tin phim ảnh|https://zingnews.vn/phim.html
+tin xe cộ|https://zingnews.vn/oto-xe-may.html
+wikipedia|https://vi.wikipedia.org/wiki/trang_chính
+lazada|https://www.lazada.vn/
+tiki|https://tiki.vn/
+shopee|https://shopee.vn/
+tinh tế|https://tinhte.vn/

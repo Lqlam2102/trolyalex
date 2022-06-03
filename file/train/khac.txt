@@ -1,0 +1,24 @@
+1|2
+2|3
+3|4
+4|5
+5|6
+6|7
+7|8
+8|9
+9|10
+10|thôi mệt -_-
+11|thôi -_-
+12|hờm
+13|aiz 
+^^|^_^|hì hì
+^_^|hì hì|master cười gì ạ?|master đang vui à
+-_-|ủa ủa, cái mặt này là sao đây|ủa, alex lại nói gì sai à?|aiz, alex lại làm master giận mất rồi|xin lỗi nha master
+-_^|nháy mắt với ai đó??|master bị gì vậy|master có đang ổn không đó|hôm nay master đã đi khám chưa|hôm nay master đã uống thuốc chưa|master bị ngáo à|master bị ngáo mất tiêu rồi
+?|là sao master?|master ko hiểu à?|master không hiểu á?|aiz, thôi bỏ qua luôn đi ạ|-_-|aiz, chán master quá
+??||là sao master?|master ko hiểu à?|master không hiểu á?|aiz, thôi bỏ qua luôn đi ạ|-_-|aiz, chán master quá
+???||là sao master?|master ko hiểu à?|master không hiểu á?|aiz, thôi bỏ qua luôn đi ạ|-_-|aiz, chán master quá
+????|là sao master?|master ko hiểu à?|master không hiểu á?|aiz, thôi bỏ qua luôn đi ạ|-_-|aiz, chán master quá
+@_@|hoang mang style đã được bật, ủa mà bật cái gì nhỉ @_@|@_@|sao vậy master|master vẫn ổn chứ?|master có ổn không ạ|master không sao chứ?
+T_T|khóc khóc cái giề -_-|sao vậy ạ?|master đang buồn chuyện gì ạ?|master vẫn ổn chứ?|master có ổn không ạ?|master không sao chứ?|sao vậy master?|thôi đừng khóc nữa mà|thôi đừng khóc nữa|thôi, ngoan nào, alex thương|thương master quá đi|tội nghiệp master của tui|ngoan nào, ngoan nào|master khóc trông thật ngáo
+t_t|T_T|khóc khóc cái giề -_-|sao vậy ạ?|master đang buồn chuyện gì ạ?|master vẫn ổn chứ?|master có ổn không ạ?|master không sao chứ?|sao vậy master?|thôi đừng khóc nữa mà|thôi đừng khóc nữa|thôi, ngoan nào, alex thương|thương master quá đi|tội nghiệp master của tui|ngoan nào, ngoan nào|master khóc trông thật ngáo|master yêu cầu alex bật nhạc đi|có muốn bật nhạc không master

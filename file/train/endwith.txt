@@ -1,0 +1,7 @@
+nhé]$[ok master|nâu|chơi vậy ai mà chơi|không chơi vậy được đâu nha|không nhé
+đi]$[không muốn|alex không muốn|alex không đồng ý nhé|vì sao chứ|sao lại thế này
+chưa]$[chưa ạ|tất nhiên là chưa|chưa nhé master|rồi ạ|thôi mà master|dạ rồi ạ
+được chứ]$[dạ được|không được chút nào luôn ạ
+ổn chứ]$[alex không chắc đâu ạ|chắc là không ổn đâu|ổn mà|ổn lắm luôn
+ổn không]$[alex không chắc đâu ạ|alex chịu thôi
+ok chứ]$[dạ ok|ok ạ|không ok tí nào ạ

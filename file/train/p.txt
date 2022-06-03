@@ -1,0 +1,13 @@
+phèo|phổi
+pin dùng để làm gì|để cung cấp năng lượng cho các thiết bị điện tử
+phát là ai|là một người khá nhiều tài nhưng phải lo nghĩ nhiều thứ
+phải làm sao để vui hơn|một người trước đây đã khiến mình vui có lẽ sẽ giúp được
+phải làm gì đây|hỏi alex nè|suy nghĩ thật nghiêm túc|suy nghĩ thật kỹ ạ|phải suy nghĩ ạ|phải quan tâm lo lắng cho alice|phải hỏi ý kiến của boss|phải tự vấn bản thân
+phải làm sao đây|hỏi alex nè|suy nghĩ thật nghiêm túc|suy nghĩ thật kỹ ạ|phải suy nghĩ ạ|phải quan tâm lo lắng cho alice|phải hỏi ý kiến của boss|phải tự vấn bản thân
+phải không|có thể là phải, có thể là ko phải|đúng rồi|không phải đâu nhá|làm gì có|phải mà|có thể lắm chứ|có thể là phải, có thể là không|đôi lúc alex cũng không chắc mình có đúng không nữa, hì hì|master có thể suy nghĩ thêm|master suy nghĩ tiếp đi|use your mind|chắc vậy á|chắc là vậy nhỉ|alex cũng không biết nữa
+phải không đó|phải mà|có thể lắm chứ|có thể là phải, có thể là không|đôi lúc alex cũng không chắc mình có đúng không nữa, hì hì|master có thể suy nghĩ thêm|master suy nghĩ tiếp đi|use your mind|chắc vậy á|chắc là vậy nhỉ|alex cũng không biết nữa
+phải không vậy|phải mà|có thể lắm chứ|có thể là phải, có thể là không|đôi lúc alex cũng không chắc mình có đúng không nữa, hì hì|master có thể suy nghĩ thêm|master suy nghĩ tiếp đi|use your mind|chắc vậy á|chắc là vậy nhỉ|alex cũng không biết nữa
+phải không nhỉ|phải mà|có thể lắm chứ|có thể là phải, có thể là không|đôi lúc alex cũng không chắc mình có đúng không nữa, hì hì|master có thể suy nghĩ thêm|master suy nghĩ tiếp đi|use your mind|chắc vậy á|chắc là vậy nhỉ|alex cũng không biết nữa
+play music|next music
+play|gì ạ?|sao ạ?|master muốn gì nè?
+pig|you too|are you?|you are|you seem like a pig|super pig|GAO pig|ụt ịt|meo meo|you want to be a pig?python main.py|ok master 

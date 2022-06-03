@@ -1,0 +1,10 @@
+li.sn_search_single_song|div.pd_name_lyric > h2.name_lyric > b|div.pd_name_lyric > p:nth-child(2)|divLyric
+-------------Information----------------
+Dữ liệu: nhacuatui.com
+url = "https://www.nhaccuatui.com/tim-kiem?q=" + tên bài hát
+Cấu trúc trả về: searchList|lyricResult|songName|composer
+searchList: danh sách kết quả tìm kiếm được
+-> lấy ra kết quả đầu tiên và connect link
+lyricResult: lời bài hát
+songName: tên bài hát
+composer: nhạc sĩ
